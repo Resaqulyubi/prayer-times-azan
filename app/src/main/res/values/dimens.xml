@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="mb_height_56">56dp</dimen>
+    <dimen name="activtiy_pengaturan_activtiy_textSize">20sp</dimen>
+    <dimen name="activiy_pengaturan_waktu_title_sinkronisasi_title_textSize">20sp</dimen>
+    <dimen name="activiy_pengaturan_waktu_title_sinkronisasi_subtitle_textSize">14sp</dimen>
+    <dimen name="activtiy_pengaturan_activty_imageviewWidth">30dp</dimen>
+</resources>
